@@ -1,0 +1,36 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_home"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:icon="@drawable/ic_action_refresh"
+        android:title="@string/action_home"/>
+    <item
+        android:id="@+id/action_rate"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_rate"/>
+    <item
+        android:id="@+id/action_facebook"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_facebook"/>
+    <item
+        android:id="@+id/action_twitter"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_twitter"/>
+    <item
+        android:id="@+id/action_about"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_about"/>
+    <item
+            android:id="@+id/menu_item_share"
+            android:showAsAction="never"
+            android:title="@string/menu_item_share"
+            android:actionProviderClass=
+                "android.widget.ShareActionProvider" />
+
+</menu>

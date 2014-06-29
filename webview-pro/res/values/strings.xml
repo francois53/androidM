@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    
+    <!-- Setup the application-->
+
+    <string name="app_name">WEBVIEW PRO</string>
+    <string name="package_name">com.example.webviewpro</string>
+    <string name="url_webview">http://google.com</string>
+    <string name="ad">ca-app-pub-XXXXXXXXXXXXXXXX/XXXXXXXXXX</string>
+    <string name="ad_inter">ca-app-pub-XXXXXXXXXXXXXXXX/XXXXXXXXXX</string>
+    <string name="fb_id">XXXXXXXXXXX</string>
+    <string name="twitter_username">envato</string>
+    <string name="parse_appid">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</string>
+    <string name="parse_clientkey">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</string>
+    
+    
+    
+    
+    <!-- Translate the application-->
+    
+    <string name="menu_title">Exit !</string>
+    <string name="menu_text">Close the app ?</string>
+    <string name="menu_ok">YES</string>
+    <string name="menu_nook">NO</string>
+    <string name="action_home">Home</string>
+    <string name="action_rate">Rate our app</string>
+    <string name="action_facebook">Facebook</string>
+    <string name="action_twitter">Twitter</string>
+    <string name="action_about">About</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="menu_item_share">Share</string>
+    <string name="html_error"><html><b>Make your own 404 error page with some html content...</b></html></string>
+    <string name="share_title">Share via</string>
+    <string name="share_subject">Title of my text</string>
+    <string name="share_text">Download our app &#8230;</string>
+    <string name="about_title">About my app</string>
+    <string name="about_text">About text &#8230;</string>
+    <string name="about_button">OK</string>
+
+</resources>
